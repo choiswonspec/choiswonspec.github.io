@@ -15,11 +15,11 @@
 minimal_mistakes_skin    : "air" #"aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "en-US"
+locale                   : "ko-KR"
 title                    : "Choi Seungwon's Potfolio"
-title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Seungwon - Choi"
+title_separator          : "|"
+subtitle                 : "small positive action" # site tagline that appears below site title in masthead
+name                     : "Seungwon's Note"
 description              : "Potfolio blog."
 url                      : "https://choiswonspec.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
