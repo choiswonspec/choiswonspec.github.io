@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "air" #"aqua", "contrast", "dark", "dirt", "neon", "m
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "Choi Seungwon's Potfolio"
+title                    : "Seungwon's Potfolio"
 title_separator          : "|"
 subtitle                 : "small positive action" # site tagline that appears below site title in masthead
 name                     : "Seungwon's Note"
@@ -25,7 +25,7 @@ url                      : "https://choiswonspec.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "choiswonspec/choiswonspec.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/mkey.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -101,10 +101,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Choi Seungwon"
+  name             : "Seungwon's Note"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "AI & Data Engineering & Data Science"
-  location         : "Seoul, Korea"
+  location         : "Seoul, Republic of Korea"
   email            : "csw31915@naver.com"
   links:
     - label: "Email"
