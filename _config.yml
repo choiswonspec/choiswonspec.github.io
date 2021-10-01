@@ -24,7 +24,7 @@ description              : "Potfolio blog."
 url                      : "https://choiswonspec.github.io/"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "choiswonspec/choiswonspec.github.io"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/beauti.jpeg"
 logo                     : "/assets/mkey.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
