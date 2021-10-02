@@ -110,7 +110,7 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "csw31915@naver.com"
-    - label: "Website"
+    - label: "Notion"
       icon: "fas fa-fw fa-link"
       url: "https://www.notion.so/Data-Scientist-Seungwon-Choi-5999d029c3324395b1dc2e6e6d7a4aa1"
     - label: "Twitter"
