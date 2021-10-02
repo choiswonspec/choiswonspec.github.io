@@ -24,7 +24,7 @@ description              : "Potfolio blog."
 url                      : "https://choiswonspec.github.io/" 
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/choiswonspec/choiswonspec.github.io"
-teaser                   : #"/assets/beauti.jpeg"
+teaser                   : "/assets/beauti.jpeg"
 logo                     : "/assets/mkey.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
@@ -39,9 +39,9 @@ comments:
     # https://developers.facebook.com/docs/plugins/comments
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : "dark" # "light" (default), 
+    colorscheme          : "light" # "light" (default), 
   utterances:
-    theme                :  "github-dark" # "github-light" (default),
+    theme                :  "github-light" # "github-light" (default),
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
