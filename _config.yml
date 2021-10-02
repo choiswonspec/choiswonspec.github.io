@@ -22,7 +22,7 @@ subtitle                 : "small positive action" # site tagline that appears b
 name                     : "Seungwon's Note"
 description              : "Potfolio blog."
 url                      : "https://choiswonspec.github.io/" 
-baseurl                  : "https://choiswonspec.github.io/" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/choiswonspec/choiswonspec.github.io"
 teaser                   : #"/assets/beauti.jpeg"
 logo                     : "/assets/mkey.jpg"
