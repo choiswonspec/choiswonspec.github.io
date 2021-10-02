@@ -1,3 +1,13 @@
+---
+layout: page
+title: "Pinterest 이미지 크롤링 후 OpenCV 필터링"
+categories: [Crawling, ImageProcessing, OpenCV]
+describtion: "Pinterest 이미지 크롤링 후 OpenCV 필터링"
+summary: "Pinterest 이미지 크롤링 후 OpenCV 필터링"
+tags: [Crawling, ImageProcessing, OpenCV]
+published: true
+---
+
 # Pinterest 이미지 크롤링 후 OpenCV 필터링
 
 
